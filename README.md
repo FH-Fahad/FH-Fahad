@@ -7,7 +7,7 @@
 - 🔰 I’m currently learning **MERN**
 - 💬 Ask me about **C/C++, C#, Java, Python, JavaScript**
 - 📫 How to reach me **fahadbin8900@gmail.com**
-- 👨‍💻 <a href="https://fh-fahad.github.io/FH/" target="_blank">**My Portfolio**</a>
+- 👨‍💻 <a href="https://fh-fahad.github.io" target="_blank">**My Portfolio**</a>
 - 📓 <a href="https://scholar.google.com/citations?hl=en&user=1imuBIAAAAAJ" target="_blank">**My Publications**</a>
 - ⏱️ Favourite Pastime **Movies, Music, and Memes👊**
 
