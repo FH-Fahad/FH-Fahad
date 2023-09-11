@@ -8,11 +8,12 @@
 **<h2 align="left">🙋🏻‍♂️ About Me </h2>**
 - 🔰 I’m currently learning **MERN**
 - 💬 Ask me about **C, C++, C#, Java, Python, JavaScript**
+- 💬 Additonaly **React, Redux, NodeJS, MySQL, MongoDB**
 - 📫 How to reach me **fahadbin8900@gmail.com**
 - 👨‍💻 <a href="https://fh-fahad.github.io/" target="_blank">**My Portfolio**</a>
 - 📓 <a href="https://scholar.google.com/citations?hl=en&user=1imuBIAAAAAJ" target="_blank">**My Publications**</a>
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/FH-Fahad?tab=repositories)
-- 📄 Know about my experiences [**Resume**](https://fh-fahad.github.io/Fahad%20Bin%20Mohammad%20Hossain_Resume.pdf)
+- 📄 Know about my experiences [**Resume**](https://fh-fahad.github.io/Assets/Fahad%20Bin%20Mohammad%20Hossain_Resume.pdf))
 - ⏱️ Favourite Pastime **Movies, Music, and Memes👊**
 
 
