@@ -14,8 +14,9 @@ Hi there, I'm [**Fahad Hossain**](http://www.github.com/fh-fahad). I am a fresh 
 
 <p align="center">
 	<a href="https://github.com/fh-fahad/">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fahad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fh-fahad&theme=monokai-metallian&hide_border=true&color=default&"/></a>
-<p align="center"> Embrace challenges and use them as opportunities for personal development🔥 </p>
+		<img src="https://streak-stats.demolab.com?user=FH-Fahad&theme=monokai" alt="Fahad's Streak"/>
+	</a>
+	<p align="center"> Embrace challenges and use them as opportunities for personal development🔥 </p>
 </p>
 
 **<h2 align="left">🙋🏻‍♂️ About Me </h2>**
