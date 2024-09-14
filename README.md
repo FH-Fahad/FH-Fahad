@@ -1,20 +1,24 @@
 <h1 align="center">Hello 👋, I'm Fahad Hossain</h1>
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF6969&duration=6000&lines=Full++Stack++Developer;Competitive++Programmer;Web++Designer++And++Developer&center=true&width=390&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF6969&duration=6000&lines=Jr++Software++Engineer;Backend++Enginner;Software++Development;Competitive++Programming;&center=true&width=390&height=45"></a>
 </p>
 
 <p align="center">
-	<img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fh-fahad&label=Profile%20Views&color=red&style=for-the-badge"/>
+	<img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fh-fahad&label=Profile%20Views&color=lightgrey&style=for-the-badge"/>
 	<a href="https://github.com/fh-fahad?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fh-fahad"/></a>
   	<a href="https://github.com/fh-fahad?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fh-fahad?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <hr/>
 
-Hi there, I'm [**Fahad Hossain**](http://www.github.com/fh-fahad). I am a fresh graduate from _Bangladesh University Of Business And Technology_ - **BUBT**. I have solved more than 500+ problems in various online judge. I am interested in software engineering and web developing because I enjoy the creative process of designing and building good and sustainable software applications.
+Hi there, I'm [**Fahad Hossain**](http://www.github.com/fh-fahad), a Junior Software Engineer at 6sense Technologies, where I specialize in Node.js and NestJS architecture. My primary focus is on developing complex, scalable server-side applications that meet diverse client needs.
+
+I hold a degree in Computer Science and Engineering from the Bangladesh University of Business and Technology (BUBT) and have embarked on my career with a strong foundation in Node.js technology. As a Junior Software Engineer, I'm passionate about crafting efficient, high-performance applications while continuously expanding my expertise in full-stack development.
+
+Beyond my technical role, I'm deeply invested in both software development and competitive programming. I’m always exploring the latest technologies, driven by the desire to innovate and contribute to cutting-edge projects. My long-term goal is to become a versatile engineer, adept at solving challenges across both front-end and back-end landscapes.
 
 <p align="center">
 	<a href="https://github.com/fh-fahad/">
-		<img src="https://streak-stats.demolab.com?user=FH-Fahad&theme=monokai" alt="Fahad's Streak"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=fh-fahad&theme=dark&hide_border=false" alt="Fahad's Streak"/>
 	</a>
 	<p align="center"> Embrace challenges and use them as opportunities for personal development🔥 </p>
 </p>
@@ -22,68 +26,27 @@ Hi there, I'm [**Fahad Hossain**](http://www.github.com/fh-fahad). I am a fresh 
 **<h2 align="left">🙋🏻‍♂️ About Me </h2>**
 
 - 🔰 I’m currently learning **MERN**
-- 💬 Ask me about **C++, C#, Java, JavaScript, TypeScript, Python**
-- 💬 Additonaly **React, Redux, NextJS, NodeJS, MySQL, SQLite, MongoDB**
+- 💬 Ask me about **C++, JavaScript, TypeScript, Python**
+- 💬 Additonaly **React, Redux, NextJS, NodeJS, MySQL, MongoDB**
 - 📫 How to reach me **fahadbin8900@gmail.com**
 - 👨‍💻 <a href="https://fh-fahad.github.io/" target="_blank">**My Portfolio**</a>
 - 📓 <a href="https://scholar.google.com/citations?hl=en&user=1imuBIAAAAAJ" target="_blank">**My Publications**</a>
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/FH-Fahad?tab=repositories)
-- 📄 Know about my experiences [**Resume**](https://fh-fahad.github.io/Assets/Fahad%20Bin%20Mohammad%20Hossain_Resume.pdf)
+- 📄 Know about my experiences [**Resume**](https://fh-fahad.github.io/)
 - ⏱️ Favourite Pastime **Movies, Music, and Memes👊**
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-	<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/CPP%20-%23E34F26.svg?logo=CPLUSPLUS&logoColor=white"></a>
-	<a href="https://www.w3schools.com/cs/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/CS%20-%23E34F26.svg?logo=CSHARP&logoColor=white"></a>
-	<a href="https://www.java.com" target="_blank"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?logo=java&logoColor=white"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript"></a>
-	<a href="https://www.python.org" target="_blank"><img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%23E34F26.svg?logo=PYTHON&logoColor=white"></a>
-</p>
+## 🌐 Socials:
 
-<h3 align="left">Frondend Developmet:</h3>
-<p align="left">
-	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-	<a href="#"><img alt="taiwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-blue.svg?logo=tailwind-css"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-Js-blue.svg?logo=react"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-Js-blue.svg?logo=Redux"></a>
-    <a href="#"><img alt="nextjs" src="https://img.shields.io/badge/Next.js-black.svg?logo=next.js&logoColor=white"></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbmh06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__fahad__hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fh-fahad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_FahadHossain)
 
-<h3 align="left">Backend Developmet:</h3>
-<p align="left">
-<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-darkgreen.svg?logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="express" src="https://img.shields.io/badge/Express.js-grey.svg?logo=express"></a> 
-</p>
+# 💻 Tech Stack:
 
-<h3 align="left">Databases:</h3>
-<p align="left">
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MySQL-blue"></a>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/SQLite-blue"></a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h3 align="left">Others:</h3>
-<p align="left"> 
-	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=red"></a>
-	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-	<a href="#"><img alt="render" src="https://img.shields.io/badge/Render-grey.svg?logo=render"></a>
-	<a href="#"><img alt="openai" src="https://img.shields.io/badge/OpenAI-blue.svg?logo=openai"></a>
-</p>
+## 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_fahadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_fahadhossain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fh-fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fh-fahad" height="30" width="40" /></a>
-<a href="https://facebook.com/fbmh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fbmh06" height="30" width="40" /></a>
-<a href="https://instagram.com/__fahad__hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__fahad__hossain" height="30" width="40" /></a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=fh-fahad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=fh-fahad&limit=5&theme=dark&combine_all_yearly_contributions=true)
