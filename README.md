@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Fahad Hossain</h1>
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF6969&duration=6000&lines=Software++Engineer;Backend++Enginner;Software++Development;Competitive++Programming;&center=true&width=390&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF6969&duration=6000&lines=Software++Engineer;Backend++Enginner;Competitive++Programming;&center=true&width=390&height=45"></a>
 </p>
 
 <p align="center">
@@ -16,11 +16,10 @@ I'm a Software Engineer, passionate about building complex, event-driven microse
 
 - 🔰 I’m currently learning **Go**
 - 💬 Ask me about **C++, JavaScript, TypeScript, Python**
-- 💬 Additonaly **NodeJS, NestJS, Postgres, MongoDB, Redis, RabbitMQ, Microservice, Event Driven Design**
+- 💬 Additonaly **NodeJS, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ**
 - 📫 How to reach me **fahadbin8900@gmail.com**
-- 👨‍💻 <a href="https://fh-fahad.github.io/" target="_blank">**My Portfolio**</a>
+- 👨‍💻 My Portfolio [**Here**](https://fh-fahad.github.io/)
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/FH-Fahad?tab=repositories)
-- 📄 Know about my experiences [**Resume**](https://fh-fahad.github.io/)
 - ⏱️ Favourite Pastime **Movies, Music, and Memes👊**
 
 ## 🌐 Socials:
