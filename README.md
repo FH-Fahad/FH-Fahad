@@ -10,22 +10,47 @@
 </p>
 <hr/>
 
-I'm a Software Engineer, passionate about building complex, event-driven microservices and scalable server-side applications. I love solving challenging problems, exploring new technologies, and writing clean, maintainable code.
+I'm a Software Engineer passionate about building complex, event-driven systems and scalable server-side applications. I enjoy solving challenging problems, exploring new technologies, and writing clean, maintainable code with a focus on performance and reliability.
+
 
 **<h2 align="left">🙋🏻‍♂️ About Me </h2>**
 
-- 🔰 I’m currently learning **Go**
-- 💬 Ask me about **C++, JavaScript, TypeScript, Python**
-- 💬 Additonaly **NodeJS, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ**
-- 📫 How to reach me **fahadbin8900@gmail.com**
-- 👨‍💻 My Portfolio [**Here**](https://fh-fahad.github.io/)
-- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/FH-Fahad?tab=repositories)
-- ⏱️ Favourite Pastime **Movies, Music, and Memes👊**
+- 🔰 I’m currently learning **Go, Kubernaties, AI/ML**
+- 🎯 Ask me about **C++, JavaScript, TypeScript, Python, PostgreSQL, MongoDB, Redis**
+- 💬 Additonaly **NestJS, RabbitMQ, Docker, AWS (EC2, Fargate, ECR, SQS, Lambda, S3 etc)**
+- ⏱️ And favourite pastime **Movies, Music, and Memes👊**
+###
 
-## 🌐 Socials:
+**<h2 align="left">🛠 I code with</h3>**
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbmh06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__fahad__hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fh-fahad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_FahadHossain)
+###
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=fh-fahad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img width="2" />
+  
+</div>
